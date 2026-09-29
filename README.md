@@ -1,3 +1,3 @@
-# Sistem_Pelayanan_DTPHKP_Kuansing
+# DTPHKP-KUANSING
 
 Sistem Pelayanan Dinas Tanaman Pangan, Hortikultura, dan Ketahanan Pangan (DTPHKP) Kabupaten Kuantan Singingi.
